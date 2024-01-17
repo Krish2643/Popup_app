@@ -25,6 +25,7 @@
     border: none;
     background: rgb(33, 177, 33);
     color: white;
+    cursor: pointer;
 }
 
 .card{
@@ -39,7 +40,6 @@
     position: relative;
     visibility: hidden;
     position: absolute;
-    cursor: pointer;
     top: 0;
     left: 50%;
     transform: translate(-50%, -50%) scale(0.1); 
@@ -76,6 +76,7 @@ p{
     border: none;
     background: rgb(33, 177, 33);
     color: white;
+     cursor: pointer;
 }
 
 img{
